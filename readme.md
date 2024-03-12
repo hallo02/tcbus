@@ -15,9 +15,13 @@ pending
 ## Voltage divider
 
 $$ V_{out} = V_{in} * {R2 \over (R1+R2)} $$
+
 $$ V_{out} = 24V * {1k\Omega \over (4.7k\Omega + 1k\Omega)} $$
+
 $$ V_{out} = 24V * {1k\Omega \over 5.7k\Omega} $$
+
 $$ V_{out} = {24V \over 5.7} $$
+
 $$ V_{out} = 4.21V $$
 
 
